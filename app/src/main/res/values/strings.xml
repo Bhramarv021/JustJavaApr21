@@ -3,4 +3,9 @@
     <string name="quantity_tag">Quantity</string>
     <string name="default_quantity">0</string>
     <string name="order">order</string>
+    <string name="default_price">Rs. 0</string>
+    <string name="price">Price</string>
+    <string name="price_tag">price</string>
+    <string name="increment_quantity">+</string>
+    <string name="decrement_quantity">-</string>
 </resources>
